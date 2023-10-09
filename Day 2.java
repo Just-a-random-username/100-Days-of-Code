@@ -1,6 +1,6 @@
 // LEETCODE : 28. Find the Index of the First Occurrence in a String
 
-class Day 2 {
+class Day2 {
     class Solution {
         public int strStr(String haystack, String needle){
             int l1 = haystack.length();
